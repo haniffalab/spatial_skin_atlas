@@ -9,9 +9,12 @@ In this study, we generated a spatially-resolved multi-modal molecular atlas of 
 
 Data (scRNA and Xenium) can be visualized and downloaded here: TBC
 
-<p align="center">
-  <img width="800" src="https://raw.githubusercontent.com/haniffalab/spatial_skin_atlas/main/misc/overview.png" alt="overview">
-</p>
+<h1 align="center">
+    <picture>
+        <source srcset="https://raw.githubusercontent.com/haniffalab/skin_spatial_atlas/main/misc/overview.png">
+        <img width="800" src="https://raw.githubusercontent.com/haniffalab/skin_spatial_atlas/main/misc/overview.png" alt="overview">
+    </picture>
+</h1>
 
 
 
