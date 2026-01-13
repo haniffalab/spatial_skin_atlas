@@ -64,6 +64,8 @@ Load adata prepared in tutorial
 """
 
 ADATA_PATH= '/lustre/scratch126/cellgen/lotfollahi/ls34/nemo/adata_all.h5ad.clustered.clustered10.good.prenichecompass.svg'
+
+#'/lustre/scratch124/cellgen/haniffa/projects/beacon/nobackup_data/adata_mintflownonresponse.h5ad.labelled.svg'
 adata_vis=sc.read_h5ad(ADATA_PATH)  
 
 # %%
