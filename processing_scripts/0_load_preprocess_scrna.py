@@ -14,6 +14,8 @@ import scipy.sparse as sp
 sc.settings.verbosity = 0
 from typing import Dict, Optional
 import tables
+
+
 df = pd.read_csv('/nfs/team298/ls34/new_disease_atlas/paths_diseaseatlas_v2.csv')
 
 paths=df
@@ -437,7 +439,9 @@ if load_all_adatas==True:
         if os.path.exists(cb_path):
             print("CB path exists")
             try:
-                adata_i =anndata_from_h5(cb_path)
+                adata_i=sc.read_10x_h5(cb_path)
+
+                #adata_i =anndata_from_h5(cb_path)
                 print(adata_i.shape, " - ", cb_outcome[sample_id], sample_id, " from ", dataset_id, GSE, cb_path)
             except:
                 print("CB PATH EXISTS BUT ERROR WITH", sample_id, " from ", dataset_id, GSE, cb_path)

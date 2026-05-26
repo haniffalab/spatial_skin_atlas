@@ -1,0 +1,48 @@
+bsub -G team298 -q gpu-lotfollahi -n1 -M 160000 -gpu "num=1" \
+-o /lustre/scratch124/cellgen/haniffa/users/ls34/nc1.%J.bsub.out \
+-e /lustre/scratch124/cellgen/haniffa/users/ls34/nc1.%J.bsub.err \
+-J nc1 \
+-R "select[mem>160000] rusage[mem=160000]" \
+bash /nfs/users/nfs_l/ls34/spatial_skin_atlas/reference_mapping_tutorials/niche_level_resources/run_nichecompass_script/runs/run_nichecompass_time1.sh
+
+
+
+bsub -G team298 -q gpu-lotfollahi -n1 -M 200000 -gpu "num=1" \
+-o /lustre/scratch124/cellgen/haniffa/users/ls34/nc2.%J.bsub.out \
+-e /lustre/scratch124/cellgen/haniffa/users/ls34/nc2.%J.bsub.err \
+-J nc2 \
+-R "select[mem>200000] rusage[mem=200000]" \
+bash /nfs/users/nfs_l/ls34/spatial_skin_atlas/reference_mapping_tutorials/niche_level_resources/run_nichecompass_script/runs/run_nichecompass_time2.sh
+
+
+
+bsub -G team298 -q gpu-lotfollahi -n1 -M 200000 -gpu "num=1" \
+-o /lustre/scratch124/cellgen/haniffa/users/ls34/nc3.%J.bsub.out \
+-e /lustre/scratch124/cellgen/haniffa/users/ls34/nc3.%J.bsub.err \
+-J nc3 \
+-R "select[mem>200000] rusage[mem=200000]" \
+bash /nfs/users/nfs_l/ls34/spatial_skin_atlas/reference_mapping_tutorials/niche_level_resources/run_nichecompass_script/runs/run_nichecompass_time3.sh
+
+
+bsub -G team298 -q gpu-lotfollahi -n1 -M 200000 -gpu "num=1" \
+-o /lustre/scratch124/cellgen/haniffa/users/ls34/nc4.%J.bsub.out \
+-e /lustre/scratch124/cellgen/haniffa/users/ls34/nc4.%J.bsub.err \
+-J nc4 \
+-R "select[mem>200000] rusage[mem=200000]" \
+bash /nfs/users/nfs_l/ls34/spatial_skin_atlas/reference_mapping_tutorials/niche_level_resources/run_nichecompass_script/runs/run_nichecompass_time4.sh
+
+
+bsub -G team298 -q gpu-lotfollahi -n1 -M 200000 -gpu "num=1" \
+-o /lustre/scratch124/cellgen/haniffa/users/ls34/nc5.%J.bsub.out \
+-e /lustre/scratch124/cellgen/haniffa/users/ls34/nc5.%J.bsub.err \
+-J nc5 \
+-R "select[mem>200000] rusage[mem=200000]" \
+bash /nfs/users/nfs_l/ls34/spatial_skin_atlas/reference_mapping_tutorials/niche_level_resources/run_nichecompass_script/runs/run_nichecompass_time5.sh
+
+
+bsub -G team298 -q gpu-lotfollahi -n1 -M 200000 -gpu "num=1" \
+-o /lustre/scratch124/cellgen/haniffa/users/ls34/nc6.%J.bsub.out \
+-e /lustre/scratch124/cellgen/haniffa/users/ls34/nc6.%J.bsub.err \
+-J nc6 \
+-R "select[mem>200000] rusage[mem=200000]" \
+bash /nfs/users/nfs_l/ls34/spatial_skin_atlas/reference_mapping_tutorials/niche_level_resources/run_nichecompass_script/runs/run_nichecompass_time6.sh

@@ -1,0 +1,63 @@
+,id,Donor,State,Anatomical.site,Sex,File.ID,individ,batch,qc,path2sr,bundle,Age,Visium.slide.ID,Capture.area,lpid,touse,path2image
+H.P734.2,H.P734.2,P734B,H,Forearm,M,WS_D_SKNsp10264994,P734,3,ok,data.nfs/visium/spacerangers/WS_D_SKNsp10264994,h&p40,58,NA,B1,LP3_2,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10264994.tiff
+H.P738.1,H.P738.1,P738A,H,Arm,F,WS_D_SKNsp10264998,P738,4,ok,data.nfs/visium/spacerangers/WS_D_SKNsp10264998,h&p40,61,NA,B1,LP4_2,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10264998.tiff
+H.P747.1,H.P747.1,P747,H,Forearm,M,WS_D_SKNsp10921574,P747,5,ok,data.nfs/visium/spacerangers/WS_D_SKNsp10921574,h&p40,82,NA,B1,LP5_2,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10921574.tiff
+H.P728.1,H.P728.1,P728A,H,Sternum,F,WS_D_SKNsp11418108,P728,7,ok,data.nfs/visium/spacerangers/WS_D_SKNsp11418108,h&p40,41,NA,B1,LP7_2,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp11418108.tiff
+H.P734.4,H.P734.4,P734B,H,Forearm,M,WS_D_SKNsp11418112,P734,8,ok,data.nfs/visium/spacerangers/WS_D_SKNsp11418112,h&p40,58,NA,B1,LP8_2,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp11418112.tiff
+H.P738.2,H.P738.2,P738A,H,Arm,F,WS_D_SKNsp11418116,P738,9,ok,data.nfs/visium/spacerangers/WS_D_SKNsp11418116,h&p40,61,NA,B1,LP9_2,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp11418116.tiff
+H.P747.2,H.P747.2,P747,H,Forearm,M,WS_D_SKNsp12398171,P747,10,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12398171,h&p40,82,V11M16-032,B1,LP10_2,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp12398171.tiff
+H.P775.1,H.P775.1,P775A,H,Abdomen - right,M,WS_D_SKNsp12767482,P775,11,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12767482,h8,56,V11M22-391,A1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-391 A1.ndpi,2.tif"
+H.P777.1,H.P777.1,P777A,H,Back - right lower,F,WS_D_SKNsp12767483,P777,11,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12767483,h8,62,V11M22-391,B1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-391 B1.ndpi,2.tif"
+H.P777.2,H.P777.2,P777A,H,Back - right lower,F,WS_D_SKNsp12767484,P777,11,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12767484,h8,62,V11M22-391,C1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-391 C1.ndpi,2.tif"
+H.P742.1,H.P742.1,P742A,H,Back - upper,F,WS_D_SKNsp12767485,P742,11,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12767485,h8,70,V11M22-391,D1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-391 D1.ndpi,2.tif"
+H.P775.2,H.P775.2,P775A,H,abdomen - right,F,WS_D_SKNsp12767486,P775,12,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12767486,h8,56,V11M22-392,A1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-392 A1.ndpi,2.tif"
+H.P777.3,H.P777.3,P777A,H,Back - right lower,F,WS_D_SKNsp12767487,P777,12,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12767487,h8,62,V11M22-392,B1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-392 B1.ndpi,2.tif"
+H.P777.4,H.P777.4,P777A,H,Back - right lower,F,WS_D_SKNsp12767488,P777,12,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12767488,h8,62,V11M22-392,C1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-392 C1.ndpi,2.tif"
+H.P742.2,H.P742.2,P742A,H,Back - upper,F,WS_D_SKNsp12767489,P742,12,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12767489,h8,70,V11M22-392,D1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-392 D1.ndpi,2.tif"
+PnL.P731.1,PnL.P731.1,P731B,PnL,Lower back,F,WS_D_SKNsp10276961,P731,1,ok,data.nfs/visium/spacerangers/WS_D_SKNsp10276961,h&p40,18,NA,C1,LP1_3,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10276961.tiff
+PnL.P737.1,PnL.P737.1,P737B,PnL,Lower back,M,WS_D_SKNsp10264996,P737,3,ok,data.nfs/visium/spacerangers/WS_D_SKNsp10264996,h&p40,58,NA,D1,LP3_4,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10264996.tiff
+PnL.P743.1,PnL.P743.1,P743B,PnL,Lower back,F,WS_D_SKNsp10265000,P743,4,ok,data.nfs/visium/spacerangers/WS_D_SKNsp10265000,h&p40,71,NA,D1,LP4_4,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10265000.tiff
+PnL.P744.1,PnL.P744.1,P744B,PnL,Lower back,M,WS_D_SKNsp10921576,P744,5,ok,data.nfs/visium/spacerangers/WS_D_SKNsp10921576,h&p40,21,NA,D1,LP5_4,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10921576.tiff
+PnL.P731.2,PnL.P731.2,P731B,PnL,Lower back,F,WS_D_SKNsp11418110,P731,7,ok,data.nfs/visium/spacerangers/WS_D_SKNsp11418110,h&p40,18,NA,D1,LP7_4,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp11418110.tiff
+PnL.P737.2,PnL.P737.2,P737B,PnL,Lower back,M,WS_D_SKNsp11418114,P737,8,folded_tissue,data.nfs/visium/spacerangers/WS_D_SKNsp11418114,h&p40,58,NA,D1,LP8_4,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp11418114.tiff
+PnL.P743.2,PnL.P743.2,P743B,PnL,Lower back,F,WS_D_SKNsp11418118,P743,9,ok,data.nfs/visium/spacerangers/WS_D_SKNsp11418118,h&p40,71,NA,D1,LP9_4,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp11418118.tiff
+PnL.P744.2,PnL.P744.2,P744B,PnL,Lower back,M,WS_D_SKNsp12398173,P744,10,ok,data.nfs/visium/spacerangers/WS_D_SKNsp12398173,h&p40,21,V11M16-032,D1,LP10_4,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp12398173.tiff
+EnL.AD2628.1,EnL.AD2628.1,AD2628,EnL,Lower back,M,WSSKIsp_Ox12919306,AD2628,17,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919306,e17,60,V11M22-390,A1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-390 A1.ndpi,2.tif"
+EnL.AD2628.2,EnL.AD2628.2,AD2628,EnL,Lower back,M,WSSKIsp_Ox12919309,AD2628,14,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919309,e17,60,V11Y11-319,A1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11Y11-319 A1.ndpi,2.tif"
+EnL.AD2638.1,EnL.AD2638.1,AD2638,EnL,Lower back,F,WSSKIsp_Ox12919321,AD2638,15,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919321,e17,42,V11Y11-320,C1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11Y11-320 C1.ndpi,2.tif"
+EnL.AD2638.2,EnL.AD2638.2,AD2638,EnL,Lower back,F,WSSKIsp_Ox12919322,AD2638,15,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919322,e17,42,V11Y11-320,D1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11Y11-320 D1.ndpi,2.tif"
+EnL.AD2639.1,EnL.AD2639.1,AD2639,EnL,Lower back,F,WSSKIsp_Ox12919312,AD2639,16,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919312,e17,23,V11Y11-321,A1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11Y11-321 A1.ndpi,2.tif"
+EnL.AD2639.2,EnL.AD2639.2,AD2639,EnL,Lower back,F,WSSKIsp_Ox12919313,AD2639,16,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919313,e17,23,V11Y11-321,B1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11Y11-321 B1.ndpi,2.tif"
+PL.P731.1,PL.P731.1,P731A,PL,Lower back,F,WS_D_SKNsp10276962,P731,1,strange_rna_footprint,data.nfs/visium/spacerangers/WS_D_SKNsp10276962,h&p40,18,NA,D1,LP1_4,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10276962.tiff
+PL.P737.1,PL.P737.1,P737A,PL,Lower back,M,WS_D_SKNsp10264995,P737,3,ok,data.nfs/visium/spacerangers/WS_D_SKNsp10264995,h&p40,58,NA,C1,LP3_3,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10264995.tiff
+PL.P743.1,PL.P743.1,P743A,PL,Lower back,F,WS_D_SKNsp10264999,P743,4,ok,data.nfs/visium/spacerangers/WS_D_SKNsp10264999,h&p40,71,NA,C1,LP4_3,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10264999.tiff
+PL.P744.1,PL.P744.1,P744A,PL,Lower back,M,WS_D_SKNsp10921575,P744,5,folded_tissue,data.nfs/visium/spacerangers/WS_D_SKNsp10921575,h&p40,21,NA,C1,LP5_3,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp10921575.tiff
+PL.P737.2,PL.P737.2,P737A,PL,Lower back,M,WS_D_SKNsp11418113,P737,8,strange_rna_footprint,data.nfs/visium/spacerangers/WS_D_SKNsp11418113,h&p40,58,NA,C1,LP8_3,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp11418113.tiff
+PL.P743.2,PL.P743.2,P743A,PL,Lower back,F,WS_D_SKNsp11418117,P743,9,ok,data.nfs/visium/spacerangers/WS_D_SKNsp11418117,h&p40,71,NA,C1,LP9_3,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp11418117.tiff
+PL.P744.2,PL.P744.2,P744A,PL,Lower back,M,WS_D_SKNsp12398172,P744,10,folded_tissue,data.nfs/visium/spacerangers/WS_D_SKNsp12398172,h&p40,21,V11M16-032,C1,LP10_3,TRUE,/nfs/cellgeni/pasham/projects/2110.skin.visium/input/tiffs/WS_D_SKNsp12398172.tiff
+EL.AD2628.1,EL.AD2628.1,AD2628,EL,Lower back,M,WSSKIsp_Ox12919307,AD2628,17,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919307,e17,60,V11M22-390,B1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11M22-390 B1.ndpi,2.tif"
+EL.AD2628.2,EL.AD2628.2,AD2628,EL,Lower back,M,WSSKIsp_Ox12919310,AD2628,14,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919310,e17,60,V11Y11-319,B1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11Y11-319 B1.ndpi,2.tif"
+EL.AD2628.3,EL.AD2628.3,AD2628,EL,Lower back,M,WSSKIsp_Ox12919318,AD2628,13,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919318,e17,60,V11U15-082,C1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11U15-082 C1.ndpi,2.tif"
+EL.AD2628.4,EL.AD2628.4,AD2628,EL,Lower back,M,WSSKIsp_Ox12919319,AD2628,13,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919319,e17,60,V11U15-082,D1,NA,TRUE,"/nfs/cellgeni/pasham/projects/2110.skin.visium/input/eczema/tiff/V11U15-082 D1.ndpi,2.tif"
+EL.AD2640.1,EL.AD2640.1,AD2640,EL,Lower back,M,WSSKIsp_Ox12919316,AD2640,13,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919316,e17,24,V11U15-082,A1,NA,,
+EL.AD2640.2,EL.AD2640.2,AD2640,EL,Lower back,M,WSSKIsp_Ox12919317,AD2640,13,ok,data.nfs/visium/spacerangers/WSSKIsp_Ox12919317,e17,24,V11U15-082,B1,NA,,
+HCA_sDUP13235943,HCA_sDUP13235943,BK2-SKI-28-FT-1a,EL,Buttock,,HCA_sDUP13235943,,,,,,,,,,,
+HCA_sDUP13235944,HCA_sDUP13235944,BK2-SKI-28-FT-1b,EL,Buttock,,HCA_sDUP13235944,,,,,,,,,,,
+HCA_sDUP13235947,HCA_sDUP13235947,BK3-SKI-28-FT-1a,EL,Buttock,,HCA_sDUP13235947,,,,,,,,,,,
+HCA_sDUP13235948,HCA_sDUP13235948,BK3-SKI-28-FT-1b,EL,Buttock,,HCA_sDUP13235948,,,,,,,,,,,
+HCA_sDUP13460218,HCA_sDUP13460218,BK13-SKI-28-FO-1b,EL,Buttock,,HCA_sDUP13460218,,,,,,,,,,,
+HCA_sDUP13460219,HCA_sDUP13460219,BK14-SKI-28-FO-1a,EL,Buttock,,HCA_sDUP13460219,,,,,,,,,,,
+HCA_sDUP13460220,HCA_sDUP13460220,BK14-SKI-28-FO-1b,EL,Buttock,,HCA_sDUP13460220,,,,,,,,,,,
+HCA_sDUP13890152,HCA_sDUP13890152,BK16-SKI-27-FO-1,EL,Lower back,,HCA_sDUP13890152,,,,,,,,,,,
+HCA_sDUP13890153,HCA_sDUP13890153,BK16-SKI-27-FO-1,EL,Lower back,,HCA_sDUP13890153,,,,,,,,,,,
+HCA_sDUP13890154,HCA_sDUP13890154,BK17-SKI-21-FO-1,EL,Abdomen,,HCA_sDUP13890154,,,,,,,,,,,
+HCA_sDUP13890155,HCA_sDUP13890155,BK17-SKI-21-FO-1,EL,Abdomen,,HCA_sDUP13890155,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,

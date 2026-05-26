@@ -63,7 +63,8 @@ handle='/lustre/scratch124/cellgen/haniffa/projects/developmental_fibroblasts/no
 Load adata prepared in tutorial
 """
 
-ADATA_PATH= '/lustre/scratch126/cellgen/lotfollahi/ls34/nemo/adata_all.h5ad.clustered.clustered10.good.prenichecompass.svg'
+ADATA_PATH= '/nfs/team298/ls34/adult_skin/final_adatas/adata_combined_new.h5ad.final.filtered.svg'
+#'/lustre/scratch126/cellgen/lotfollahi/ls34/nemo/adata_all.h5ad.clustered.clustered10.good.prenichecompass.svg'
 
 #'/lustre/scratch124/cellgen/haniffa/projects/beacon/nobackup_data/adata_mintflownonresponse.h5ad.labelled.svg'
 adata_vis=sc.read_h5ad(ADATA_PATH)  
@@ -72,7 +73,7 @@ adata_vis=sc.read_h5ad(ADATA_PATH)
 
 
 # %%
-n_epochs = 40
+n_epochs = 100
  
 ### Dataset ###
 n_neighbors = 8 # for constructing spatial connectivities
@@ -80,7 +81,7 @@ n_sampled_neighbors = 4 # for model training
 species = "human" # assume human as reference is human skin
 spatial_key = "spatial"
 mapping_entity_key = "mapping_entity"
-dataset = f"XeniumTUTORIAL__REFQ"
+dataset = f"XeniumMINTFLOWDATA__REFQ"
 
 
 
