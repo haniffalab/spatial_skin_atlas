@@ -73,8 +73,8 @@ def read_and_qc(sample_name, wtsi, path='rawdata.h5ad'):
 # ## Define Paramters
 
 # %%
-n_svg = 2048
-n_epochs = 200
+n_svg = 1024
+n_epochs = 20
  
 ### Dataset ###
 n_neighbors = 4
