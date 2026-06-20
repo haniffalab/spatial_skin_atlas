@@ -74,10 +74,10 @@ def read_and_qc(sample_name, wtsi, path='rawdata.h5ad'):
 
 # %%
 n_svg = 1024
-n_epochs = 20
+n_epochs = 100
  
 ### Dataset ###
-n_neighbors = 4
+n_neighbors = 16
 
 dataset = f"RELAPSE"
 ADATA_PATH='/lustre/scratch124/cellgen/haniffa/projects/adult_skin_v1/nobackup_data/adata_all_fornc.h5ad'
@@ -675,7 +675,7 @@ try:
     adata.write(f"{model_folder_path}/reference/adata_final_allgenes.h5ad")
 except:
     try:
-        adata.uns[latent_key], _ = model.get_latent_representation()
+        adata.obsm[latent_key] = model.get_latent_representation()
         sc.pp.neighbors(adata,
                         use_rep=latent_key,
                         key_added=latent_key)
@@ -808,7 +808,6 @@ axs.append(fig.add_subplot(spec1[0]))
 sc.pl.umap(adata=model.adata,
            color=[cat_covariates_keys[0]],
            groups=groups,
-           palette=batch_colors,
            title=f"Batches in Latent Space",
            ax=axs[0],
            show=False)
@@ -819,7 +818,6 @@ for idx, sample in enumerate(samples):
     sc.pl.spatial(adata=model.adata[model.adata.obs[sample_key] == sample],
                   color=[cat_covariates_keys[0]],
                   groups=groups,
-                  palette=batch_colors,
                   spot_size=spot_size,
                   title=f"Batches in Physical Space \n"
                         f"(Sample: {sample})",
