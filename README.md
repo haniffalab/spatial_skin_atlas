@@ -7,14 +7,14 @@ In this study, we generated a spatially-resolved multi-modal molecular atlas of 
 “processing_”scripts contains scripts used for processing+integration\
 “figs” contains scripts for producing figures \
 
-Data (scRNA and Xenium) can be visualized and downloaded here: TBC
+Data (scRNA and Xenium) can be visualized and downloaded here: https://cellatlas.io/spatial-skin-atlas
 
 <img src="https://github.com/haniffalab/skin_spatial_atlas/blob/main/misc/overview.png" width="800px">
 
 
 ## Citation
 
-TBC
+Steele et al. Nature Medicine 2026
 
 ### Contact
 
